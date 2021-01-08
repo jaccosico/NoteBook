@@ -1,11 +1,11 @@
-# Sample Snack app
+# NoteBook App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Do you have a hard time going out the house because you are scared of the current pandemic? Are you willing to risk your health just to buy school supplies? Do you have tons of gadgets and would like to put it into use during online classes? Well say no more!! We created an app called "E-Note" for your needs as a student during the new normal! 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+Our application would help you with taking down notes in a specific subject/course that you are currently enrolled! You are also required to put the class schedule of the subect/course. You can also put in the basic details of the subject, and the professor of the specific subject.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+The user will type the title/topic of the current lesson, then the user will be able to take down notes while having the lecture so that he/she will not miss a thing and would remember the lesson at that specific day! Then hit save!
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+We also included "edit" which has the ability to change a saved note. To do so, hold the saved note, then choose edit, then you will be able to edit the previous note and you are also allowed to change the subject, schedule, professor, topic, and the content of the notes. 
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Lastly, we also added a "delete" option, which can be used when the user do not need/is already finished with the topic. To delete a note, hold a saved note. Then, a delete option will appear, which will erase the note you have chosen.
